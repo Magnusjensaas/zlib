@@ -1,4 +1,4 @@
-module github.com/kevin-cantwell/zlib
+module github.com/magnusjensaas/zlib
 
 go 1.12
 
